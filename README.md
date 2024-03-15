@@ -8,6 +8,9 @@ AtliQ Hardware, a prominent global manufacturer, embarked on a journey to levera
 3.	DAX 
 4.	DAX Studio (for report optimization)
 
+### Important Link ### 
+Dashboard Link: [Business Insights 360 ](https://app.powerbi.com/view?r=eyJrIjoiNDBlY2VmNjctZjAwZS00NzA3LWJmZDgtYTY0N2FjYmI2OTlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Key Learnings: ##
 1.	Understanding Profit/Loss Statements
 2.	Embracing Data Warehousing
